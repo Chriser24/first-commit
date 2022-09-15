@@ -1,0 +1,19 @@
+body{
+    background-image: url(./lobos__1280x720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+header{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.icon{
+    display: inline-block;
+    height: 45px;
+    width: 45px;
+    stroke-width: 0px;
+    fill: currentColor;
+    stroke: currentColor; 
+
+}
